@@ -1,1 +1,1 @@
-This README is neither informative nor exciting.
+This README is neither informative nor exciting. It just is.
